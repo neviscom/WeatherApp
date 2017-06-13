@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_cities_list">Weather</string>
+
+    <string name="celsius_degree">°C</string>
+    <string name="temp_celsius_degree">%s °C</string>
+    <string name="temp_min_celsius_degree">min: %s °C</string>
+    <string name="temp_max_celsius_degree">max: %s °C</string>
+
+    <string name="input_dialog_title">Input city name</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="empty_state">Sorry, bad weather.\nCheck an internet connection</string>
+    <string name="loading">Loading…</string>
+
+    <string name="error_city_loading">Couldn\'t load the city. Try again.</string>
+</resources>
